@@ -1,0 +1,10 @@
+{
+  "name": "sleep-chic-site",
+  "version": "1.0.0",
+  "scripts": {
+    "sync": "node scripts/sync-notion.js"
+  },
+  "dependencies": {
+    "@notionhq/client": "^2.2.15"
+  }
+}
